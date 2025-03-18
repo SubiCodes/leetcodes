@@ -18,4 +18,3 @@ var romanToInt = function(s) {
     return integer
 };
 
-console.log(romanToInt("CIL"));
